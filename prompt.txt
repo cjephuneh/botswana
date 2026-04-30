@@ -1,0 +1,4 @@
+​BNF_Web and App_Proposal.docx​ 
+create the 3 things take the logo from the doc and be very creative with the ui i want a top notch with the colours yello and blacki want us to buil an mobile app using this document use expo and make sure we have a very beautiful ui 
+
+create the website and the admin panel too 
